@@ -1,0 +1,1623 @@
+[
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardRemove",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardRemove",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardRemove",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "keyboards",
+        "importPath": "src.handlers.user",
+        "description": "src.handlers.user",
+        "isExtraImport": true,
+        "detail": "src.handlers.user",
+        "documentation": {}
+    },
+    {
+        "label": "keyboards",
+        "importPath": "src.handlers.user",
+        "description": "src.handlers.user",
+        "isExtraImport": true,
+        "detail": "src.handlers.user",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "shared.utils.callbacks",
+        "description": "shared.utils.callbacks",
+        "isExtraImport": true,
+        "detail": "shared.utils.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "rdb",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserFriends",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserMicroChallenge",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "rdb",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "Referrals",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserFriends",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserMicroChallenge",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserFriends",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserMicroChallenge",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "Referrals",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "rdb",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserFriends",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserMicroChallenge",
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatorRunner",
+        "importPath": "fluentogram",
+        "description": "fluentogram",
+        "isExtraImport": true,
+        "detail": "fluentogram",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatorRunner",
+        "importPath": "fluentogram",
+        "description": "fluentogram",
+        "isExtraImport": true,
+        "detail": "fluentogram",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatorHub",
+        "importPath": "fluentogram",
+        "description": "fluentogram",
+        "isExtraImport": true,
+        "detail": "fluentogram",
+        "documentation": {}
+    },
+    {
+        "label": "FluentTranslator",
+        "importPath": "fluentogram",
+        "description": "fluentogram",
+        "isExtraImport": true,
+        "detail": "fluentogram",
+        "documentation": {}
+    },
+    {
+        "label": "TranslatorHub",
+        "importPath": "fluentogram",
+        "description": "fluentogram",
+        "isExtraImport": true,
+        "detail": "fluentogram",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "db_nosql",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "db_nosql",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "db_nosql",
+        "importPath": "shared.utils",
+        "description": "shared.utils",
+        "isExtraImport": true,
+        "detail": "shared.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "Reminders",
+        "importPath": "src.handlers.user.message",
+        "description": "src.handlers.user.message",
+        "isExtraImport": true,
+        "detail": "src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "Targets",
+        "importPath": "src.handlers.user.message",
+        "description": "src.handlers.user.message",
+        "isExtraImport": true,
+        "detail": "src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "Adminpanel",
+        "importPath": "src.handlers.user.message",
+        "description": "src.handlers.user.message",
+        "isExtraImport": true,
+        "detail": "src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardBuilder",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackData",
+        "importPath": "aiogram.filters.callback_data",
+        "description": "aiogram.filters.callback_data",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackData",
+        "importPath": "aiogram.filters.callback_data",
+        "description": "aiogram.filters.callback_data",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "isExtraImport": true,
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "User1",
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "isExtraImport": true,
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User1",
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "isExtraImport": true,
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "isExtraImport": true,
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User1",
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "isExtraImport": true,
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "aliased",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "FluentBundle",
+        "importPath": "fluent_compiler.bundle",
+        "description": "fluent_compiler.bundle",
+        "isExtraImport": true,
+        "detail": "fluent_compiler.bundle",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "AiohttpSession",
+        "importPath": "aiogram.client.session.aiohttp",
+        "description": "aiogram.client.session.aiohttp",
+        "isExtraImport": true,
+        "detail": "aiogram.client.session.aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultBotProperties",
+        "importPath": "aiogram.client.default",
+        "description": "aiogram.client.default",
+        "isExtraImport": true,
+        "detail": "aiogram.client.default",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultBotProperties",
+        "importPath": "aiogram.client.default",
+        "description": "aiogram.client.default",
+        "isExtraImport": true,
+        "detail": "aiogram.client.default",
+        "documentation": {}
+    },
+    {
+        "label": "RedisStorage",
+        "importPath": "aiogram.fsm.storage.redis",
+        "description": "aiogram.fsm.storage.redis",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.redis",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "shared.utils.config",
+        "description": "shared.utils.config",
+        "isExtraImport": true,
+        "detail": "shared.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "shared.utils.config",
+        "description": "shared.utils.config",
+        "isExtraImport": true,
+        "detail": "shared.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "shared.utils.config",
+        "description": "shared.utils.config",
+        "isExtraImport": true,
+        "detail": "shared.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "TranslateMiddleware",
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "isExtraImport": true,
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheMiddleware",
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "isExtraImport": true,
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheFriendsMiddleware",
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "isExtraImport": true,
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheMicrochalengesMiddleware",
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "isExtraImport": true,
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheReferallsMiddleware",
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "isExtraImport": true,
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "src.handlers",
+        "description": "src.handlers",
+        "isExtraImport": true,
+        "detail": "src.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy.future",
+        "description": "sqlalchemy.future",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.future",
+        "documentation": {}
+    },
+    {
+        "label": "redis.asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis.asyncio",
+        "description": "redis.asyncio",
+        "detail": "redis.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "bot.src.handlers.admin.callback",
+        "description": "bot.src.handlers.admin.callback",
+        "peekOfCode": "router = Router()",
+        "detail": "bot.src.handlers.admin.callback",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "bot.src.handlers.admin.message",
+        "description": "bot.src.handlers.admin.message",
+        "peekOfCode": "router = Router()",
+        "detail": "bot.src.handlers.admin.message",
+        "documentation": {}
+    },
+    {
+        "label": "motivation_porn_messages",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.callback",
+        "description": "bot.src.handlers.user.callback",
+        "peekOfCode": "motivation_porn_messages = [\n    \"Каждый новый день — это новая возможность стать лучше, чем вчера. Как ты себя чувствуешь сегодня?\",\n    \"Улыбнись сегодня — это лучший способ начать день с позитивом. Как ты себя чувствуешь сегодня?\",\n    \"Достижения начинаются с веры в себя. Верь в свои силы! Как ты себя чувствуешь сегодня?\",\n    \"Маленькие шаги ведут к большим победам. Как ты себя чувствуешь сегодня?\",\n    \"Не бойся ошибок — они делают тебя сильнее и мудрее. Как ты себя чувствуешь сегодня?\",\n    \"Сегодня — отличный день для новых начинаний. Как ты себя чувствуешь сегодня?\",\n    \"Твоя настойчивость — ключ к успеху. Как ты себя чувствуешь сегодня?\",\n    \"Пусть сегодня будет день, когда ты сделаешь что-то важное для себя. Как ты себя чувствуешь сегодня?\",\n    \"Самое лучшее время для действий — сейчас. Как ты себя чувствуешь сегодня?\",",
+        "detail": "bot.src.handlers.user.callback",
+        "documentation": {}
+    },
+    {
+        "label": "daily_messages",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.callback",
+        "description": "bot.src.handlers.user.callback",
+        "peekOfCode": "daily_messages = [\n    # День 1\n    \"<b>День 1: Анализ триггеров и осознанность</b>\\n<i>Задача: Выявить контекст, запускающий тягу к порно.</i>\\n\\n<b>Действия:</b>\\n1. Запишите 3 ситуации-триггера (пример: 'ночь', 'стресс', 'скука').\\n2. Замените одну из них на активность, требующую фокуса (10 мин. дыхательных упражнений, холодный душ).\\n\\n<b>Научная основа:</b> Осознание триггеров снижает автоматизм зависимого поведения на 47% (Journal of Behavioral Addictions, 2021).\\n\\nКак прошел твой предыдущий день?\",\n    # День 2\n    \"<b>День 2: Деконструкция ритуала</b>\\n<i>Задача: Разорвать цепочку 'импульс → порно → мастурбация'.</i>\\n\\n<b>Действия:</b>\\n1. При импульсе выждите 15 мин., займив руки (пазл, лепка).\\n2. Мастурбация разрешена только после паузы без стимулов (никаких образов/видео).\\n\\n<b>Научная основа:</b> 15-минутная задержка ослабляет силу привычки на 32% (Psychology of Consciousness, 2022).\\n\\nКак прошел твой предыдущий день?\",\n    # День 3\n    \"<b>День 3: Замещение дофаминовых источников</b>\\n<i>Задача: Перенаправить потребность в стимуляции.</i>\\n\\n<b>Действия:</b>\\n1. При тяге выполните 20 мин. интенсивной нагрузки (приседания, бёрпи).\\n2. После мастурбации (без порно!) сразу займитесь творчеством (рисование, музыка).\\n\\n<b>Научная основа:</b> Физнагрузка повышает естественный дофамин на 40% (Neuropharmacology, 2023).\\n\\nКак прошел твой предыдущий день?\",\n    # День 4\n    \"<b>День 4: Цифровая гигиена</b>\\n<i>Задача: Устранить лёгкий доступ к контенту.</i>\\n\\n<b>Действия:</b>\\n1. Удалите приложения с доступом к порно, установите BlockSite.\\n2. Включите фильтры NSFW в настройках ОС.\\n3. Уберите гаджеты из спальни на ночь.\\n\\n<b>Научная основа:</b> 80% срывов происходят из-за отсутствия барьеров (Cyberpsychology, 2020).\\n\\nКак прошел твой предыдущий день?\",\n    # День 5",
+        "detail": "bot.src.handlers.user.callback",
+        "documentation": {}
+    },
+    {
+        "label": "daily_message_premium",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.callback",
+        "description": "bot.src.handlers.user.callback",
+        "peekOfCode": "daily_message_premium = [\n    # Неделя 2 (Углубленная работа с триггерами)\n    \"<b>День 8: Аудит триггерных сред</b>\\n<i>Задача: Выявить скрытые триггеры в окружении.</i>\\n\\n<b>Действия:</b>\\n1. Просканируйте 3 места (рабочий стол, соцсети, маршруты)\\n2. Устраните 1 скрытый триггер (напр. «Инстаграм → удалить провокационные аккаунты»)\\n\\n<b>Наука:</b> 68% рецидивов вызваны неучтенными триггерами (Cyberpsychology, 2023)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 9: Техника «Замороженный образ»</b>\\n<i>Задача: Ослабить эмоциональный отклик на образы.</i>\\n\\n<b>Действия:</b>\\n1. При флешбэке представьте картинку в черно-белом цвете\\n2. Медленно «заморозьте» и расколите льдинку\\n\\n<b>Наука:</b> Визуальное искажение снижает возбуждение миндалевидного тела на 41% (Journal of Neuroscience, 2022)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 10: Дофаминовое картографирование</b>\\n<i>Задача: Создать альтернативные источники радости.</i>\\n\\n<b>Действия:</b>\\n1. Составьте список из 5 «здоровых дофаминовых ударов» (напр. скалолазание)\\n2. Реализуйте 1 пункт сегодня\\n\\n<b>Наука:</b> Новые хобби формируют конкурентные нейронные пути за 72 часа (Nature, 2023)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 11: Цифровой детокс 2.0</b>\\n<i>Задача: Перестроить отношения с технологиями.</i>\\n\\n<b>Действия:</b>\\n1. Включите монохромный режим экрана\\n2. Удалите все приложения для анонимного просмотра\\n\\n<b>Наука:</b> Отсутствие цвета снижает стимулирующий эффект контента на 57% (ACM CHI, 2024)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 12: Соматическая синхронизация</b>\\n<i>Задача: Восстановить связь с телом.</i>\\n\\n<b>Действия:</b>\\n1. 15 мин. скан-медитации (поочередное напряжение/расслабление мышц)\\n2. Мастурбация только после процедуры\\n\\n<b>Наука:</b> Телесная осознанность снижает компульсивность на 63% (Body Image, 2023)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 13: Когнитивное реструктурирование</b>\\n<i>Задача: Изменить нарратив зависимости.</i>\\n\\n<b>Действия:</b>\\n1. Напишите письмо себе от лица «здорового Я»\\n2. Опишите 3 конкретных преимущества свободы\\n\\n<b>Наука:</b> Самоперсонализация укрепляет префронтальную кору (Frontiers in Psychology, 2023)\\n\\nКак прошел твой предыдущий день?\",\n    \"<b>День 14: Рефрейминг сексуальности</b>\\n<i>Задача: Отделить физиологию от цифровых паттернов.</i>\\n\\n<b>Действия:</b>\\n1. Читайте научную литературу о сексуальном здоровье\\n2. Практикуйте мастурбацию с завязанными глазами\\n\\n<b>Наука:</b> Тактильная фокусировка перестраивает сенсорные карты за 14 дней (The Journal of Sexual Medicine, 2023)\\n\\nКак прошел твой предыдущий день?\",\n    # Неделя 3 (Формирование новой идентичности)",
+        "detail": "bot.src.handlers.user.callback",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.callback",
+        "description": "bot.src.handlers.user.callback",
+        "peekOfCode": "router = Router()\n@router.callback_query(F.data == \"back_remind\")\nasync def _(callback: CallbackQuery,\n            bot: Bot,\n            locale: TranslatorRunner,\n            user_cache: UserCache,\n            state: FSMContext\n            ):\n    await state.clear()\n    await callback.message.delete()",
+        "detail": "bot.src.handlers.user.callback",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteRemind",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "class DeleteRemind(CallbackData, prefix = \"delete_remind\"):\n    text: str\nasync def inline_delete_remind(locale, chat_id):\n    keyboard = InlineKeyboardBuilder()\n    messages = await db_nosql.get_delayed_messages(chat_id)\n    for message in messages:\n        keyboard.add(InlineKeyboardButton(text=message['message'], callback_data = DeleteRemind(text=str(message['message'])).pack()))\n    keyboard.add(InlineKeyboardButton(text=locale.REPLY_BACK(), callback_data = \"back_remind\"))\n    return keyboard.adjust(1, repeat=True).as_markup()\ndef inline_update_main_goal(locale):",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequest",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "class FriendRequest(CallbackData, prefix = \"friend_request\"):\n    chat_id: str\n    username: str\n    type: str\nasync def inline_friend_request(locale, requester, requster_username):\n    keyboard = InlineKeyboardBuilder()\n    keyboard.add(InlineKeyboardButton(text=locale.INLINE_FRIEND_ACCEPT(), callback_data = FriendRequest(chat_id=str(requester), type='accept', username = requster_username).pack()))\n    keyboard.add(InlineKeyboardButton(text=locale.INLINE_FRIEND_DECLINE(), callback_data = FriendRequest(chat_id=str(requester), type=\"decline\", username = requster_username).pack()))\n    return keyboard.adjust(2, repeat=True).as_markup()\nasync def inline_friends_stata(locale):",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "MicrochalangeRequest",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "class MicrochalangeRequest(CallbackData, prefix = \"microchalange_request\"):\n    type: str\nasync def inline_microchalange_request(locale, type):\n    keyboard = InlineKeyboardBuilder()\n    keyboard.add(InlineKeyboardButton(text=locale.INLINE_YES(), callback_data = MicrochalangeRequest(type=type).pack()))\n    keyboard.add(InlineKeyboardButton(text=locale.INLINE_NO(), callback_data = \"main\"))\n    return keyboard.adjust(2, repeat=True).as_markup()\nasync def inline_porn_video():\n    keyboard = InlineKeyboardBuilder()\n    keyboard.add(InlineKeyboardButton(text=\"VIDEO\", callback_data = \"video\", url='https://youtu.be/DfV8LuHZ6vI?si=PasAiQSXFQK2p4Hb'))",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def main(locale):\n    # Структура меню в виде списка строк\n    menu_layout = [\n        [locale.REPLY_MAIN_REMINDERS(), locale.REPLY_MAIN_MICRO(), locale.REPLY_MAIN_GROUPS()],\n        [locale.REPLY_MAIN_RATINGS(), locale.REPLY_MAIN_PROFILE(), locale.REPLY_MAIN_HELP()]\n    ]\n    # Преобразование в клавиатуру\n    keyboard = [\n        [KeyboardButton(text=text) for text in row]\n        for row in menu_layout",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "reminders",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def reminders(locale):\n    # Структура меню в виде списка строк\n    menu_layout = [\n        [locale.REPLY_REM_ADD(), locale.REPLY_REM_DELETE()],\n        [locale.REPLY_MAIN()]\n    ]\n    # Преобразование в клавиатуру\n    keyboard = [\n        [KeyboardButton(text=text) for text in row]\n        for row in menu_layout",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_reminders",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_reminders(locale):\n    action_map = {\n        locale.INLINE_REM_TIME_30(): \"remind_30\",\n        locale.INLINE_REM_TIME_60(): \"remind_60\",\n        locale.INLINE_REM_TIME_120(): \"remind_120\",\n        locale.INLINE_REM_CUSTOM_TIME(): \"remind_custom\",\n        locale.INLINE_REM_CANCEL(): \"back_remind\"\n    }\n    menu_layout = [\n        [locale.INLINE_REM_TIME_30(), locale.INLINE_REM_TIME_60(), locale.INLINE_REM_TIME_120()],",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_reminders_when",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_reminders_when(locale):\n    action_map = {\n        locale.INLINE_REM_ONCE(): \"remind_once\",\n        locale.INLINE_REM_DAILY(): \"remind_daily\",\n        locale.INLINE_REM_WEEKLY(): \"remind_weekly\",\n        locale.INLINE_REM_MONTHLY(): \"remind_monthly\",\n        locale.INLINE_REM_CUSTOM_REPEAT(): \"remind_repeat_custom\",\n        locale.INLINE_REM_CANCEL(): \"back_remind\"\n    }\n    menu_layout = [",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_reminders_last",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_reminders_last(locale):\n    action_map = {\n        locale.INLINE_REM_CONFIRM(): \"remind_confirm\",\n        locale.INLINE_REM_CANCEL(): \"back_remind\"\n    }\n    menu_layout = [\n        [locale.INLINE_REM_CONFIRM()],\n        [locale.INLINE_REM_CANCEL()]\n    ]\n    keyboard = [",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_reminders_custom",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_reminders_custom(locale):\n    action_map = {\n        locale.INLINE_CUSTOM_MINUTES(): \"remind_minutes1\",\n        locale.INLINE_CUSTOM_HOURS(): \"remind_hours1\",\n        locale.INLINE_CUSTOM_DAYS(): \"remind_days1\",\n        locale.INLINE_CUSTOM_WEEKS(): \"remind_weeks1\",\n        locale.INLINE_CUSTOM_MONTHLY(): \"remind_monthly1\",\n        locale.INLINE_REM_CANCEL(): \"back_remind\"\n    }\n    menu_layout = [",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_repeat_reminders_custom",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_repeat_reminders_custom(locale):\n    action_map = {\n        locale.INLINE_CUSTOM_HOURS(): \"remind_repeat_hours\",\n        locale.INLINE_CUSTOM_DAYS(): \"remind_repeat_days\",\n        locale.INLINE_CUSTOM_WEEKS(): \"remind_repeat_weeks\",\n        locale.INLINE_CUSTOM_MONTHLY(): \"remind_repeat_monthly\",\n        locale.INLINE_REM_CANCEL(): \"back_remind\"\n    }\n    menu_layout = [\n        [locale.INLINE_CUSTOM_HOURS(), locale.INLINE_CUSTOM_DAYS()],",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "inline_update_main_goal",
+        "kind": 2,
+        "importPath": "bot.src.handlers.user.keyboards",
+        "description": "bot.src.handlers.user.keyboards",
+        "peekOfCode": "def inline_update_main_goal(locale):\n    action_map = {\n        locale.INLINE_EDIT_MAIN_GOAL(): \"update_main_goal\"\n    }\n    menu_layout = [\n        [locale.INLINE_EDIT_MAIN_GOAL()]\n    ]\n    keyboard = [\n        [InlineKeyboardButton(text=text, callback_data=action_map[text]) for text in row]\n        for row in menu_layout",
+        "detail": "bot.src.handlers.user.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Reminders",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "class Reminders(StatesGroup):\n    remind_add = State()\n    remind_time = State()\n    remind_when = State()\n    remind_custom = State()\n    remind_repeat_custom = State()\n    remind_seconds = State()\nclass Targets(StatesGroup):\n    new_target = State()\nclass Adminpanel(StatesGroup):",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "Targets",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "class Targets(StatesGroup):\n    new_target = State()\nclass Adminpanel(StatesGroup):\n    set_premium = State()\nrouter = Router()\n@router.message(F.text == \"МЕНЮ\")\n@router.message(Command('start'))\nasync def _(message: Message,\n            bot: Bot,\n            locale: TranslatorRunner,",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "Adminpanel",
+        "kind": 6,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "class Adminpanel(StatesGroup):\n    set_premium = State()\nrouter = Router()\n@router.message(F.text == \"МЕНЮ\")\n@router.message(Command('start'))\nasync def _(message: Message,\n            bot: Bot,\n            locale: TranslatorRunner,\n            user_cache: UserCache,\n            state: FSMContext,",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "motivation_porn_messages",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "motivation_porn_messages = [\n    \"Каждый новый день — это новая возможность стать лучше, чем вчера. Как ты себя чувствуешь сегодня?\",\n    \"Улыбнись сегодня — это лучший способ начать день с позитивом. Как ты себя чувствуешь сегодня?\",\n    \"Достижения начинаются с веры в себя. Верь в свои силы! Как ты себя чувствуешь сегодня?\",\n    \"Маленькие шаги ведут к большим победам. Как ты себя чувствуешь сегодня?\",\n    \"Не бойся ошибок — они делают тебя сильнее и мудрее. Как ты себя чувствуешь сегодня?\",\n    \"Сегодня — отличный день для новых начинаний. Как ты себя чувствуешь сегодня?\",\n    \"Твоя настойчивость — ключ к успеху. Как ты себя чувствуешь сегодня?\",\n    \"Пусть сегодня будет день, когда ты сделаешь что-то важное для себя. Как ты себя чувствуешь сегодня?\",\n    \"Самое лучшее время для действий — сейчас. Как ты себя чувствуешь сегодня?\",",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "work_messages",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "work_messages = [\n    \"Эта функция скоро будет доступна! Спасибо за терпение.\",\n    \"Работа над этой функцией продолжается. Скоро всё будет готово!\",\n    \"Извините за неудобство, эта функция сейчас в разработке. Следите за обновлениями!\",\n    \"Эта возможность пока недоступна, но мы работаем над её реализацией.\",\n    \"Функция в процессе разработки. Вернёмся к вам чуть позже!\",\n    \"Пока эта функция недоступна, но мы уже над ней работаем.\",\n    \"Эта опция скоро появится! Благодарим за ваше терпение.\",\n    \"Функция находится в стадии разработки. Оставайтесь с нами!\"\n]",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "bot.src.handlers.user.message",
+        "description": "bot.src.handlers.user.message",
+        "peekOfCode": "router = Router()\n@router.message(F.text == \"МЕНЮ\")\n@router.message(Command('start'))\nasync def _(message: Message,\n            bot: Bot,\n            locale: TranslatorRunner,\n            user_cache: UserCache,\n            state: FSMContext,\n            user_friends: UserFriends,\n            user_microchalenges: UserMicroChallenge,",
+        "detail": "bot.src.handlers.user.message",
+        "documentation": {}
+    },
+    {
+        "label": "mongo_client",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "mongo_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST}:'\n    f'{settings.MONGO_PORT}'\n)\nexternal_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST_EXTERNAL}:'",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "external_client",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "external_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST_EXTERNAL}:'\n    f'{settings.MONGO_PORT_EXTERNAL}'\n)\n# Инициализация кеша\nuser_cache = UserCache(\n    mongo_client=mongo_client,\n    mongo_db_name=settings.MONGO_DB_NAME,",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_cache",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "user_cache = UserCache(\n    mongo_client=mongo_client,\n    mongo_db_name=settings.MONGO_DB_NAME,\n    mongo_collection=settings.MONGO_COLLECTION\n)\nuser_friends = UserFriends(\n    mongo_client=mongo_client\n)\nuser_microchalenges = UserMicroChallenge(mongo_client=mongo_client)\nuser_referals = Referrals(mongo_client=mongo_client)",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_friends",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "user_friends = UserFriends(\n    mongo_client=mongo_client\n)\nuser_microchalenges = UserMicroChallenge(mongo_client=mongo_client)\nuser_referals = Referrals(mongo_client=mongo_client)\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\nt_hub = TranslatorHub(\n    {\n        \"ru\": (\"ru\", )",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_microchalenges",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "user_microchalenges = UserMicroChallenge(mongo_client=mongo_client)\nuser_referals = Referrals(mongo_client=mongo_client)\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\nt_hub = TranslatorHub(\n    {\n        \"ru\": (\"ru\", )\n    },\n    translators=[\n        FluentTranslator(",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_referals",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "user_referals = Referrals(mongo_client=mongo_client)\nlogging.basicConfig(level=logging.INFO)\nlogger = logging.getLogger(__name__)\nt_hub = TranslatorHub(\n    {\n        \"ru\": (\"ru\", )\n    },\n    translators=[\n        FluentTranslator(\n            'ru',",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nt_hub = TranslatorHub(\n    {\n        \"ru\": (\"ru\", )\n    },\n    translators=[\n        FluentTranslator(\n            'ru',\n            translator=FluentBundle.from_files(\n                \"ru-RU\",",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "t_hub",
+        "kind": 5,
+        "importPath": "bot.main",
+        "description": "bot.main",
+        "peekOfCode": "t_hub = TranslatorHub(\n    {\n        \"ru\": (\"ru\", )\n    },\n    translators=[\n        FluentTranslator(\n            'ru',\n            translator=FluentBundle.from_files(\n                \"ru-RU\",\n                filenames=[",
+        "detail": "bot.main",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "peekOfCode": "class Task(BaseModel):\n    id: int\n    datetime_registation: int = 0\n    target_time: str = ''\n    status: str = ''\n    stars: int = 0\n    awards: int = 0\n    streak: int = 0\n\"\"\"\nмодели для SQL базы данных",
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\nclass User1(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    chat_id = Column(Integer, unique=True, nullable=False)\n    username = Column(String, nullable=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    last_active = Column(DateTime, default=datetime.utcnow)\n    stars = Column(Integer, default=0)",
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User1",
+        "kind": 6,
+        "importPath": "shared.models.user",
+        "description": "shared.models.user",
+        "peekOfCode": "class User1(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    chat_id = Column(Integer, unique=True, nullable=False)\n    username = Column(String, nullable=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    last_active = Column(DateTime, default=datetime.utcnow)\n    stars = Column(Integer, default=0)\n    awards = Column(Integer, default=0)\n    streak = Column(Integer, default=0)",
+        "detail": "shared.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "shared.utils.callbacks",
+        "description": "shared.utils.callbacks",
+        "peekOfCode": "class Task(CallbackData, prefix=\"send_tasl\"):\n    ...",
+        "detail": "shared.utils.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "shared.utils.config",
+        "description": "shared.utils.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    BOT_TOKEN: str\n    MONGO_USERNAME: str\n    MONGO_PASSWORD: str\n    MONGO_HOST: str\n    MONGO_HOST_EXTERNAL: str\n    MONGO_PORT: int\n    MONGO_PORT_EXTERNAL: int\n    MONGO_DB_NAME: str\n    MONGO_DB_ROOT_NAME: str",
+        "detail": "shared.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "shared.utils.config",
+        "description": "shared.utils.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "shared.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "UserCache",
+        "kind": 6,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "class UserCache:\n    def __init__(\n        self,\n        mongo_client: AsyncIOMotorClient,\n        mongo_db_name: str = \"habit_quest_cache\",\n        mongo_collection: str = \"user_stats\"\n    ):\n        self.mongo_db = mongo_client[mongo_db_name]\n        self.collection = self.mongo_db[mongo_collection]\n        self.engine = engine",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserFriends",
+        "kind": 6,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "class UserFriends:\n    def __init__(\n        self,\n        mongo_client: AsyncIOMotorClient,\n        mongo_db_name: str = \"habit_quest\",\n        mongo_collection: str = \"user_friends\"\n    ):\n        \"\"\"\n        Управление друзьями пользователей\n        :param mongo_client: Инициализированный AsyncIOMotorClient",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "Referrals",
+        "kind": 6,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "class Referrals:\n    def __init__(\n        self,\n        mongo_client: AsyncIOMotorClient,\n        mongo_db_name: str = \"habit_quest\",\n        mongo_collection: str = \"referrals\"\n    ):\n        self.mongo_db = mongo_client[mongo_db_name]\n        self.collection = self.mongo_db[mongo_collection]\n    async def initialize(self):",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserMicroChallenge",
+        "kind": 6,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "class UserMicroChallenge:\n    def __init__(\n        self,\n        mongo_client: AsyncIOMotorClient,\n        mongo_db_name: str = \"habit_quest\",\n        mongo_collection: str = \"user_micro_challenges\"\n    ):\n        self.mongo_db = mongo_client[mongo_db_name]\n        self.collection = self.mongo_db[mongo_collection]\n    async def initialize(self):",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_next_run",
+        "kind": 2,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "def calculate_next_run(interval_type: str, interval_value: int) -> float:\n    now = datetime.now()\n    if interval_type == \"seconds\":\n        next_run = now + timedelta(seconds=interval_value)\n    elif interval_type == \"minutes\":\n        next_run = now + timedelta(minutes=interval_value)\n    elif interval_type == \"hours\":\n        next_run = now + timedelta(hours=interval_value)\n    elif interval_type == \"days\":\n        next_run = now + timedelta(days=interval_value)",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "rdb",
+        "kind": 5,
+        "importPath": "shared.utils.db_nosql",
+        "description": "shared.utils.db_nosql",
+        "peekOfCode": "rdb = redis.Redis(host=settings.REDIS_HOST, port=settings.REDIS_PORT, password=settings.REDIS_PASSWORD)\nclass UserCache:\n    def __init__(\n        self,\n        mongo_client: AsyncIOMotorClient,\n        mongo_db_name: str = \"habit_quest_cache\",\n        mongo_collection: str = \"user_stats\"\n    ):\n        self.mongo_db = mongo_client[mongo_db_name]\n        self.collection = self.mongo_db[mongo_collection]",
+        "detail": "shared.utils.db_nosql",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "peekOfCode": "class UserService:\n    @staticmethod\n    def get_user_stats(user_id: int) -> dict:\n        with async_session() as session:\n            user = session.query(User1).filter(User1.id == user_id).first()\n            if not user:\n                # Создаем нового пользователя\n                user = User1(id=user_id)\n                session.add(user)\n                session.commit()",
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "peekOfCode": "DATABASE_URL = 'sqlite+aiosqlite:////app/data/users.db'\nengine = create_async_engine(DATABASE_URL)\nasync_session = async_sessionmaker(engine, class_=AsyncSession)\nasync def init_db():\n    try:\n        async with engine.begin() as conn:\n            await conn.run_sync(Base.metadata.create_all)\n        print(\"Database tables created successfully\")\n    except Exception as e:\n        print(f\"Database creation error: {e}\")",
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "peekOfCode": "engine = create_async_engine(DATABASE_URL)\nasync_session = async_sessionmaker(engine, class_=AsyncSession)\nasync def init_db():\n    try:\n        async with engine.begin() as conn:\n            await conn.run_sync(Base.metadata.create_all)\n        print(\"Database tables created successfully\")\n    except Exception as e:\n        print(f\"Database creation error: {e}\")\n        raise",
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "async_session",
+        "kind": 5,
+        "importPath": "shared.utils.db_sql",
+        "description": "shared.utils.db_sql",
+        "peekOfCode": "async_session = async_sessionmaker(engine, class_=AsyncSession)\nasync def init_db():\n    try:\n        async with engine.begin() as conn:\n            await conn.run_sync(Base.metadata.create_all)\n        print(\"Database tables created successfully\")\n    except Exception as e:\n        print(f\"Database creation error: {e}\")\n        raise\nclass UserService:",
+        "detail": "shared.utils.db_sql",
+        "documentation": {}
+    },
+    {
+        "label": "TranslateMiddleware",
+        "kind": 6,
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "peekOfCode": "class TranslateMiddleware(BaseMiddleware):\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:\n        language = data[\"user\"].language_code if 'user' in data else 'ru'\n        hub: TranslatorHub = data.get('t_hub')\n        data['locale'] = hub.get_translator_by_locale(language)",
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheMiddleware",
+        "kind": 6,
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "peekOfCode": "class CacheMiddleware(BaseMiddleware):\n    def __init__(self, cache: UserCache):\n        super().__init__()\n        self.cache = cache\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:",
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheFriendsMiddleware",
+        "kind": 6,
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "peekOfCode": "class CacheFriendsMiddleware(BaseMiddleware):\n    def __init__(self, cache: UserCache):\n        super().__init__()\n        self.cache = cache\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:",
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheMicrochalengesMiddleware",
+        "kind": 6,
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "peekOfCode": "class CacheMicrochalengesMiddleware(BaseMiddleware):\n    def __init__(self, cache: UserCache):\n        super().__init__()\n        self.cache = cache\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:",
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "CacheReferallsMiddleware",
+        "kind": 6,
+        "importPath": "shared.utils.middlewares",
+        "description": "shared.utils.middlewares",
+        "peekOfCode": "class CacheReferallsMiddleware(BaseMiddleware):\n    def __init__(self, cache: UserCache):\n        super().__init__()\n        self.cache = cache\n    async def __call__(\n        self,\n        handler: Callable[[Update, Dict[str, Any]], Awaitable[Any]],\n        event: Update,\n        data: Dict[str, Any]\n    ) -> Any:",
+        "detail": "shared.utils.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "MessageWorker",
+        "kind": 6,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "class MessageWorker:\n    def __init__(self, bot_token: str):\n        self.bot = Bot(token=bot_token,default=DefaultBotProperties(parse_mode=\"HTML\"))\n        print(\"Бот для отправки сообщений инициализирован\")\n    async def send_message(self, chat_id: int, message: str, reply_markup=None):\n        \"\"\"Отправка сообщения через Telegram API с опциональной клавиатурой\"\"\"\n        try:\n            await self.bot.send_message(\n                chat_id=chat_id,\n                text=message,",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_next_run",
+        "kind": 2,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "def calculate_next_run(interval_type: str, interval_value: int) -> float:\n    \"\"\"Вычисляет timestamp следующего выполнения\"\"\"\n    now = datetime.now()\n    if interval_type == \"days\":\n        next_run = now + timedelta(days=interval_value)\n    elif interval_type == \"hours\":\n        next_run = now + timedelta(hours=interval_value)\n    elif interval_type == \"minutes\":\n        next_run = now + timedelta(minutes=interval_value)\n    elif interval_type == \"weeks\":",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "handle_shutdown",
+        "kind": 2,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "def handle_shutdown(signame):\n    \"\"\"Обработчик сигналов завершения\"\"\"\n    global running\n    print(f\"Получен сигнал {signame}, остановка...\")\n    running=False\nasync def main():\n    \"\"\"Основная функция запуска воркера\"\"\"\n    worker_instance=MessageWorker(settings.BOT_TOKEN)\n    loop=asyncio.get_running_loop()\n    for sig in ('SIGINT','SIGTERM'):",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "mongo_client",
+        "kind": 5,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "mongo_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST}:'\n    f'{settings.MONGO_PORT}'\n)\nexternal_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST_EXTERNAL}:'",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "external_client",
+        "kind": 5,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "external_client = AsyncIOMotorClient(\n    f'mongodb://{settings.MONGO_USERNAME}:'\n    f'{settings.MONGO_PASSWORD}@'\n    f'{settings.MONGO_HOST_EXTERNAL}:'\n    f'{settings.MONGO_PORT_EXTERNAL}'\n)\nuser_cache = UserCache(\n    mongo_client=mongo_client,\n    mongo_db_name=settings.MONGO_DB_NAME,\n    mongo_collection=settings.MONGO_COLLECTION",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_cache",
+        "kind": 5,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "user_cache = UserCache(\n    mongo_client=mongo_client,\n    mongo_db_name=settings.MONGO_DB_NAME,\n    mongo_collection=settings.MONGO_COLLECTION\n)\nuser_microchalenges = UserMicroChallenge(mongo_client=mongo_client)\n# Глобальная переменная для управления выполнением\nrunning = True\nclass MessageWorker:\n    def __init__(self, bot_token: str):",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "user_microchalenges",
+        "kind": 5,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "user_microchalenges = UserMicroChallenge(mongo_client=mongo_client)\n# Глобальная переменная для управления выполнением\nrunning = True\nclass MessageWorker:\n    def __init__(self, bot_token: str):\n        self.bot = Bot(token=bot_token,default=DefaultBotProperties(parse_mode=\"HTML\"))\n        print(\"Бот для отправки сообщений инициализирован\")\n    async def send_message(self, chat_id: int, message: str, reply_markup=None):\n        \"\"\"Отправка сообщения через Telegram API с опциональной клавиатурой\"\"\"\n        try:",
+        "detail": "worker.main",
+        "documentation": {}
+    },
+    {
+        "label": "running",
+        "kind": 5,
+        "importPath": "worker.main",
+        "description": "worker.main",
+        "peekOfCode": "running = True\nclass MessageWorker:\n    def __init__(self, bot_token: str):\n        self.bot = Bot(token=bot_token,default=DefaultBotProperties(parse_mode=\"HTML\"))\n        print(\"Бот для отправки сообщений инициализирован\")\n    async def send_message(self, chat_id: int, message: str, reply_markup=None):\n        \"\"\"Отправка сообщения через Telegram API с опциональной клавиатурой\"\"\"\n        try:\n            await self.bot.send_message(\n                chat_id=chat_id,",
+        "detail": "worker.main",
+        "documentation": {}
+    }
+]
